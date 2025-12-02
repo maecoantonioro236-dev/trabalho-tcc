@@ -11,8 +11,7 @@ O sistema tem como objetivo: **descrever em 1 frase o que o site faz**.
 ---
 
 Link do site
-Confira o site online:  
-[https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO](https://maecoantonioro236-dev.github.io/trabalho-tcc/]
+Confira o site online:(https://github.com/maecoantonioro236-dev/trabalho-tcc.git)/
 
 Pitch de Apresentação
 Assista ao vídeo do pitch aqui:  
