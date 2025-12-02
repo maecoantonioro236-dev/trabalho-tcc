@@ -12,13 +12,13 @@ O sistema tem como objetivo: **descrever em 1 frase o que o site faz**.
 
 Link do site
 Confira o site online:  
-[Visualizar Site]([https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO](https://maecoantonioro236-dev.github.io/trabalho-tcc/)
+([https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO](https://maecoantonioro236-dev.github.io/trabalho-tcc/)
 
 ---
 
 Pitch de Apresentação
 Assista ao vídeo do pitch aqui:  
-[Link do vídeo]([COLE_O_LINK_DO_SEU_VIDEO_AQUI](https://youtu.be/ngB2Heq1Q7g?si=-Bs_ToImKhZvN1dn)
+(https://youtu.be/ngB2Heq1Q7g?si=-Bs_ToImKhZvN1dn)
 
 ---
 
