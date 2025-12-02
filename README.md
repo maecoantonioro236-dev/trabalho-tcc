@@ -1,4 +1,3 @@
-README.md
 TCC locmachine
 
 Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso.  
